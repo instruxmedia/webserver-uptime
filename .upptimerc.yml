@@ -13,8 +13,8 @@ sites:
     url: https://staging.instruxmedia.com
   - name: IDP
     url: https://dev.instruxmedia.com
-  #- name: DZ
-  #  url: https://dropzone.instruxmedia.com
+  - name: DZ
+    url: https://dropzone.instruxmedia.com
 
 assignees: # Users to assign downtime issues (optional)
   - bryan-franey
