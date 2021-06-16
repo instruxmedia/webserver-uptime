@@ -1,7 +1,7 @@
-url: https://mylearning-monapprentissage.entia.ca/moodle
+url: $HC_LMS_URL
 status: up
 code: 200
-responseTime: 730
-lastUpdated: 2021-06-16T16:08:53.885Z
+responseTime: 550
+lastUpdated: 2021-06-16T19:44:13.968Z
 startTime: Wed Jun 16 2021 14:44:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
