@@ -14,7 +14,7 @@ sites:
   - name: IDP
     url: https://dev.instruxmedia.com
   - name: DZ
-    url: https://ddropzone.instruxmedia.com
+    url: https://dropzone.instruxmedia.com
 
 assignees: # Users to assign downtime issues (optional)
   - bryan-franey
