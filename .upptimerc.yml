@@ -11,9 +11,12 @@ sites:
     url: https://dfo-mpo.entia.ca
   - name: Staging Portal
     url: https://staging.instruxmedia.com
-  - name: IDP
-    url: https://dev.instruxmedia.com
+  #- name: IDP
+  #  url: https://dev.instruxmedia.com
 
+assignees: # Users to assign downtime issues (optional)
+  - bryan-franey
+  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
