@@ -11,8 +11,8 @@ sites:
     url: https://dfo-mpo.entia.ca
   - name: Staging Portal
     url: https://staging.instruxmedia.com
-  #- name: IDP
-  #  url: https://dev.instruxmedia.com
+  - name: IDP
+    url: https://dev.instruxmedia.com
 
 assignees: # Users to assign downtime issues (optional)
   - bryan-franey
