@@ -8,19 +8,19 @@ sites:
     icon: https://www.instruxmedia.com/assets/images/favicon_instrux.png
   - name: HC LMS
     url: $HC_LMS_URL
-    icon: $HC_LMS_URL/theme/gc/wet-boew/dist/theme-gcwu-fegc/images/favicon.ico
+    #icon: $HC_LMS_URL/theme/gc/wet-boew/dist/theme-gcwu-fegc/images/favicon.ico
   - name: DFO LMS
     url: $DFO_LMS_URL
-    icon: $DFO_LMS_URL/theme/gc/wet-boew/dist/theme-custom/images/favicon.ico
+    #icon: $DFO_LMS_URL/theme/gc/wet-boew/dist/theme-custom/images/favicon.ico
   - name: Staging Portal
     url: $STAGING_URL
-    icon: $STAGING_URL/theme/gc/wet-boew/dist/theme-custom/images/favicon.ico
+    #icon: $STAGING_URL/theme/gc/wet-boew/dist/theme-custom/images/favicon.ico
   - name: IDP
     url: $IDP_URL
-    icon: $IDP_URL/public/brand/favicon.ico
+    #icon: $IDP_URL/public/brand/favicon.ico
   - name: DZ
     url: $DZ_URL
-    icon: $DZ_URL/vfm-admin/images/favicon.ico
+    #icon: $DZ_URL/vfm-admin/images/favicon.ico
 
 assignees: # Users to assign downtime issues (optional)
   - bryan-franey
