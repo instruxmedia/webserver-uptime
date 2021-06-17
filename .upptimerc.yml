@@ -21,6 +21,8 @@ sites:
   - name: DZ
     url: $DZ_URL
     #icon: $DZ_URL/vfm-admin/images/favicon.ico
+  - name: Test Notifications
+    url: https://does.not.exist.example.com
 
 assignees: # Users to assign downtime issues (optional)
   - bryan-franey
