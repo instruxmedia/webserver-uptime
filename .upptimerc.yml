@@ -18,8 +18,10 @@ sites:
   - name: IDP
     url: $IDP_URL
     #icon: $IDP_URL/public/brand/favicon.ico
-  - name: DZ
+  - name: Dropzone
     url: $DZ_URL
+  - name: Proof of Concept
+    url: $POC_URL
     #icon: $DZ_URL/vfm-admin/images/favicon.ico
  # - name: Test Notifications
  #   url: https://does.not.exist.example.com
