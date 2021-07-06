@@ -115,9 +115,9 @@
     "url": "$POC_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "proof-of-concept",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -126,6 +126,8 @@
     "timeWeek": 431,
     "timeMonth": 471,
     "timeYear": 471,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-06": 0
+    }
   }
 ]
