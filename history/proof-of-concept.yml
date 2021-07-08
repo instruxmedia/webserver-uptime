@@ -1,7 +1,7 @@
 url: $POC_URL
-status: down
-code: 503
-responseTime: 1038
-lastUpdated: 2021-07-08T06:39:30.833Z
+status: up
+code: 200
+responseTime: 2294
+lastUpdated: 2021-07-08T16:02:15.784Z
 startTime: Fri Jun 18 2021 16:12:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
