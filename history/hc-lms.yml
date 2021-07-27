@@ -1,7 +1,7 @@
 url: $HC_LMS_URL
-status: down
-code: 503
-responseTime: 695
-lastUpdated: 2021-07-27T12:28:54.080Z
+status: up
+code: 200
+responseTime: 577
+lastUpdated: 2021-07-27T13:01:56.114Z
 startTime: Wed Jun 16 2021 14:44:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
