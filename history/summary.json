@@ -4,18 +4,20 @@
     "url": "https://www.instruxmedia.com",
     "icon": "https://www.instruxmedia.com/assets/images/favicon_instrux.png",
     "slug": "company-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 489,
-    "timeDay": 496,
-    "timeWeek": 480,
-    "timeMonth": 469,
-    "timeYear": 489,
-    "dailyMinutesDown": {}
+    "time": 518,
+    "timeDay": 1645,
+    "timeWeek": 769,
+    "timeMonth": 540,
+    "timeYear": 518,
+    "dailyMinutesDown": {
+      "2021-08-14": 0
+    }
   },
   {
     "name": "HC LMS",
