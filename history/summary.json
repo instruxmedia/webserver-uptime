@@ -4,19 +4,19 @@
     "url": "https://www.instruxmedia.com",
     "icon": "https://www.instruxmedia.com/assets/images/favicon_instrux.png",
     "slug": "company-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 518,
-    "timeDay": 1645,
-    "timeWeek": 769,
-    "timeMonth": 540,
-    "timeYear": 518,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 521,
+    "timeDay": 1343,
+    "timeWeek": 766,
+    "timeMonth": 546,
+    "timeYear": 521,
     "dailyMinutesDown": {
-      "2021-08-14": 0
+      "2021-08-14": 18
     }
   },
   {
