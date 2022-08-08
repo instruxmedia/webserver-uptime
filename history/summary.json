@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 534,
-    "timeDay": 510,
-    "timeWeek": 422,
-    "timeMonth": 416,
+    "timeDay": 474,
+    "timeWeek": 426,
+    "timeMonth": 422,
     "timeYear": 542,
     "dailyMinutesDown": {
       "2022-06-25": 145,
@@ -34,11 +34,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.43%",
-    "time": 719,
-    "timeDay": 531,
-    "timeWeek": 520,
-    "timeMonth": 512,
-    "timeYear": 721,
+    "time": 718,
+    "timeDay": 399,
+    "timeWeek": 506,
+    "timeMonth": 514,
+    "timeYear": 720,
     "dailyMinutesDown": {
       "2022-06-25": 145,
       "2022-06-24": 21,
@@ -60,11 +60,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 479,
-    "timeDay": 338,
-    "timeWeek": 441,
-    "timeMonth": 408,
-    "timeYear": 487,
+    "time": 480,
+    "timeDay": 705,
+    "timeWeek": 491,
+    "timeMonth": 421,
+    "timeYear": 488,
     "dailyMinutesDown": {
       "2022-06-25": 146,
       "2022-06-24": 21,
@@ -83,9 +83,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.73%",
-    "time": 839,
-    "timeDay": 495,
-    "timeWeek": 549,
+    "time": 838,
+    "timeDay": 480,
+    "timeWeek": 552,
     "timeMonth": 595,
     "timeYear": 875,
     "dailyMinutesDown": {
@@ -121,9 +121,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 808,
-    "timeDay": 349,
-    "timeWeek": 460,
-    "timeMonth": 484,
+    "timeDay": 467,
+    "timeWeek": 464,
+    "timeMonth": 479,
     "timeYear": 817,
     "dailyMinutesDown": {
       "2022-06-25": 146,
@@ -154,8 +154,8 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.90%",
     "time": 530,
-    "timeDay": 234,
-    "timeWeek": 293,
+    "timeDay": 294,
+    "timeWeek": 295,
     "timeMonth": 572,
     "timeYear": 551,
     "dailyMinutesDown": {
@@ -164,8 +164,7 @@
       "2022-06-24": 19,
       "2022-06-09": 20,
       "2022-03-05": 247,
-      "2021-10-17": 76,
-      "2021-08-08": 21
+      "2021-10-17": 76
     }
   }
 ]
