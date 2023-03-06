@@ -9,9 +9,9 @@ sites:
   - name: HC LMS
     url: $HC_LMS_URL
     #icon: $HC_LMS_URL/theme/gc/wet-boew/dist/theme-gcwu-fegc/images/favicon.ico
-  - name: DFO LMS
-    url: $DFO_LMS_URL
-    #icon: $DFO_LMS_URL/theme/gc/wet-boew/dist/theme-custom/images/favicon.ico
+#  - name: DFO LMS
+#    url: $DFO_LMS_URL
+#    #icon: $DFO_LMS_URL/theme/gc/wet-boew/dist/theme-custom/images/favicon.ico
   - name: Staging Portal
     url: $STAGING_URL
     #icon: $STAGING_URL/theme/gc/wet-boew/dist/theme-custom/images/favicon.ico
@@ -22,7 +22,7 @@ sites:
     url: $DZ_URL
  # - name: Proof of Concept
  #   url: $POC_URL
-    #icon: $DZ_URL/vfm-admin/images/favicon.ico
+ #   #icon: $DZ_URL/vfm-admin/images/favicon.ico
  # - name: Test Notifications
  #   url: https://does.not.exist.example.com
 
@@ -38,7 +38,7 @@ status-website:
   favicon: https://www.instruxmedia.com/assets/images/favicon_instrux.png
   name: Website Uptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/instruxmedia/webserver-uptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This status page uses **real-time** data from our [GitHub repository](https://github.com/instruxmedia/webserver-uptime).
   navbar:
     - title: Status
       href: /$REPO
