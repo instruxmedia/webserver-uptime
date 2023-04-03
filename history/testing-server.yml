@@ -1,7 +1,7 @@
 url: $TEST2_URL
-status: down
-code: 403
-responseTime: 368
-lastUpdated: 2023-04-02T23:09:04.732Z
+status: up
+code: 200
+responseTime: 2545
+lastUpdated: 2023-04-03T12:21:18.045Z
 startTime: Mon Mar 13 2023 18:52:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
