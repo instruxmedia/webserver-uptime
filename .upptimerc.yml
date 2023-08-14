@@ -6,9 +6,9 @@ sites:
   - name: Company Website
     url: https://www.instruxmedia.com
     icon: https://www.instruxmedia.com/assets/images/favicon_instrux.png
-  - name: HC LMS
-    url: $HC_LMS_URL
-    #icon: $HC_LMS_URL/theme/gc/wet-boew/dist/theme-gcwu-fegc/images/favicon.ico
+#  - name: HC LMS
+#    url: $HC_LMS_URL
+#    #icon: $HC_LMS_URL/theme/gc/wet-boew/dist/theme-gcwu-fegc/images/favicon.ico
 #  - name: DFO LMS
 #    url: $DFO_LMS_URL
 #    #icon: $DFO_LMS_URL/theme/gc/wet-boew/dist/theme-custom/images/favicon.ico
