@@ -1,7 +1,7 @@
 url: $STAGING_URL
 status: up
 code: 200
-responseTime: 805
-lastUpdated: 2023-08-18T23:08:25.351Z
-startTime: Tue Jun 15 2021 21:38:23 GMT+0000 (Coordinated Universal Time)
+responseTime: 720
+lastUpdated: 2023-08-19T23:08:17.649Z
+startTime: 2021-06-15T21:38:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
