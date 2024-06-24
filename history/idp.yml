@@ -1,7 +1,7 @@
 url: $IDP_URL
-status: down
-code: 502
-responseTime: 3216
-lastUpdated: 2024-06-24T07:31:58.842Z
+status: up
+code: 200
+responseTime: 950
+lastUpdated: 2024-06-24T07:43:05.803Z
 startTime: 2021-06-16T14:46:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
