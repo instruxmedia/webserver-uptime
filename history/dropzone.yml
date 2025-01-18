@@ -1,7 +1,7 @@
 url: $DZ_URL
-status: down
-code: 502
-responseTime: 7492
-lastUpdated: 2025-01-18T07:50:01.566Z
+status: up
+code: 200
+responseTime: 828
+lastUpdated: 2025-01-18T08:08:49.340Z
 startTime: 2021-06-18T16:12:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
