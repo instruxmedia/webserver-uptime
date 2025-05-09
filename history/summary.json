@@ -4,7 +4,7 @@
     "url": "https://www.instruxmedia.com",
     "icon": "https://www.instruxmedia.com/assets/images/favicon_instrux.png",
     "slug": "company-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 411,
     "timeYear": 424,
     "dailyMinutesDown": {
+      "2025-05-09": 0,
       "2025-04-30": 951,
       "2025-04-29": 46,
       "2024-07-16": 778,
